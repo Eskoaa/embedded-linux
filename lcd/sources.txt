@@ -1,0 +1,2 @@
+http://www.circuitbasics.com/raspberry-pi-lcd-set-up-and-programming-in-c-with-wiringpi/
+https://helloraspberrypi.blogspot.com/2016/02/c-example-to-getting-ip-address-from.html
