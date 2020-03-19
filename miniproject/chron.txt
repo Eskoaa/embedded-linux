@@ -1,0 +1,3 @@
+To start the program on boot, use the commands
+chrontab -e
+@reboot /path/to/job
